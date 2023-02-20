@@ -14,3 +14,5 @@ Softwares para integração:
 Softwares de Visualização para o BI:
     - Google Data Studio
 
+Link to Access View the wireflow: https://miro.com/app/board/uXjVPQ2tbyM=/?share_link_id=572448810317
+
